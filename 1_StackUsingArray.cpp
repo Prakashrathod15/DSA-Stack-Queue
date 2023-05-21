@@ -1,6 +1,18 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+// In this file we will see stack. okey But what is stack ?
+// I think we saw that bunches of books are store in book shop could you remember how they are arranged ?
+// if you see they are arranged like one on one in linear way such that if you want to access a particular
+// book without breaking linear structure then you need to access books that are over that book.
+// like this structure is nothing but stack. another example of stack is bunches of chairs.
+// okey I understood. but what about impleamentation in code how we code it ? let see we have inbuild stack
+// but we dont want to use this stack. We want to create our Own stack Okey so lets start.
+// stack is an entity whose store data itself and it have its own functionalities to access data 
+// I think to create stack we need class. But why we need class why ? 
+// Beacause class provide our requirement of storing data and impleamenting functionalities in it in single 
+// Entity. We see these fundamentals in Another OOPs concept series.
+// so for creating class we use class.
 
 
 // -------------------------------------------Stack------------------------------------------------
